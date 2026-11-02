@@ -1,0 +1,46 @@
+name: An idea to save the world
+description: An app or a game that would make life better for real people. The community votes with a 👍.
+title: "Idea: "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for fighting the fight. Every idea here is public, and the community votes on it with a 👍.
+        The ideas with the most votes are the ones we build next, live on [Save the World](https://darkshift.io/live/).
+        Please don't put an email address, a phone number or anything private in an idea.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is it?
+      options:
+        - An app
+        - A game
+        - Not sure yet
+    validations:
+      required: true
+  - type: textarea
+    id: how
+    attributes:
+      label: How does it save the world?
+      description: In a few sentences, what it does and what changes for people because it exists.
+    validations:
+      required: true
+  - type: input
+    id: who
+    attributes:
+      label: Who does it help?
+      description: The people it's for, as specifically as you can.
+    validations:
+      required: true
+  - type: dropdown
+    id: build
+    attributes:
+      label: Would you build it with us?
+      description: Founders who share the vision come on the show and build their app live.
+      options:
+        - Yes, I'd like to build it on the show
+        - Maybe, tell me more
+        - No, I just want it to exist
+    validations:
+      required: true

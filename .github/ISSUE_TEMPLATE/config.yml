@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: The mission
+    url: https://darkshift.io/save-the-world/
+    about: What Save the World is, and how to join the coalition.
+  - name: The leaderboard
+    url: https://darkshift.io/save-the-world/leaderboard/
+    about: Every idea and every app, ranked by the community's votes.
