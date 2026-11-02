@@ -23,7 +23,7 @@ body:
     id: how
     attributes:
       label: How does it save the world?
-      description: In a few sentences, what it does and what changes for humans because it exists.
+      description: In a few sentences, what it does and what changes for people because it exists.
     validations:
       required: true
   - type: input
