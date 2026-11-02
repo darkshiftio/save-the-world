@@ -12,7 +12,7 @@ Ideas for apps and games that make life better for real people, voted on by the 
 
 ## How it works
 
-Each idea is an issue labelled `idea`. Each Save the World app is an issue labelled `app` (and `game` when it is one).
+Each idea is an issue labelled `idea`. Each Save the World app is an issue labelled `app`, with `in the works` until it is in people's hands and `live` after.
 darkshift.io/save-the-world/leaderboard/ reads these issues from GitHub's public API: an issue's 👍 count is its
 votes, and its comments and recent activity are its community's pulse. An idea picked to build gets the `app` label.
 
