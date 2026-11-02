@@ -1,6 +1,6 @@
 # Save the World
 
-Ideas for apps and games that make life better for real people, voted on by the community. It's part of
+Ideas for apps and games that make life better for real humans, voted on by the community. It's part of
 [Save the World](https://darkshift.io/save-the-world/), Darkshift's mission.
 
 - **Vote** with a 👍 on an [idea](https://github.com/darkshiftio/save-the-world/issues?q=is%3Aissue+is%3Aopen+label%3Aidea+sort%3Areactions-%2B1-desc)
@@ -12,9 +12,9 @@ Ideas for apps and games that make life better for real people, voted on by the 
 
 ## How it works
 
-Each idea is an issue labelled `idea`. Each Save the World app is an issue labelled `app`, with `in the works` until it is in people's hands and `live` after.
+Each idea is an issue labelled `idea`. Each Save the World app is an issue labelled `app`, with `in the works` until it is in humans' hands and `live` after.
 darkshift.io/save-the-world/leaderboard/ reads these issues from GitHub's public API: an issue's 👍 count is its
 votes, and its comments and recent activity are its community's pulse. An idea picked to build gets the `app` label.
 
-Ideas are public. Please keep them kind, and leave out anything private. Ideas that are spam or that harm people are
+Ideas are public. Please keep them kind, and leave out anything private. Ideas that are spam or that harm humans are
 closed.
